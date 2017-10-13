@@ -1,3 +1,5 @@
+![Letstalk logo](http://www.filetolink.com/9f1b29069d "Letstalk logo")
+
 # letStalk
 An App that displays the location of your friend within your school campus.
 
